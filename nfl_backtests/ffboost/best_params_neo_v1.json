@@ -1,0 +1,29 @@
+{
+  "RB": {
+    "max_depth": 6,
+    "n_estimators": 650,
+    "learning_rate": 0.05,
+    "reg_alpha": 0.05,
+    "reg_lambda": 1.2,
+    "tune_mae": 18.566666666666666,
+    "tune_spearman": 0.5929424840233399
+  },
+  "WR": {
+    "max_depth": 5,
+    "n_estimators": 800,
+    "learning_rate": 0.04,
+    "reg_alpha": 0.2,
+    "reg_lambda": 1.5,
+    "tune_mae": 25.9575,
+    "tune_spearman": 0.6378293483356775
+  },
+  "TE": {
+    "max_depth": 5,
+    "n_estimators": 800,
+    "learning_rate": 0.04,
+    "reg_alpha": 0.2,
+    "reg_lambda": 1.5,
+    "tune_mae": 14.183333333333332,
+    "tune_spearman": 0.4523552123552125
+  }
+}
